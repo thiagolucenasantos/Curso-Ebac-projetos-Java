@@ -1,0 +1,8 @@
+package br.com.thiago;
+
+public class PrimeiraClasse {
+
+	public static void main(String[] args) {
+		
+	}
+}
